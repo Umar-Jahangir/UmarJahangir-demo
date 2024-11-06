@@ -1,2 +1,2 @@
 # UmarJahangir-demo
-This is my first git repository 
+I am Umar Jahangir a technical coordinator at abhivriddhi committee at VIT, Pune
